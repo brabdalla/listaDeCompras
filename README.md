@@ -1,18 +1,21 @@
-## Getting Started
+# Aula de Vetores - Estrutura de Dados
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+👋 Bem-vindos!
 
-## Folder Structure
+Este repositório contém o código desenvolvido em sala de aula na disciplina de **Estrutura de Dados**.  
+Aqui você encontrará exemplos práticos sobre **vetores** e como utilizá-los na programação.
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📌 Conteúdo
+- Declaração e inicialização de vetores
+- Leitura e escrita de elementos
+- Percorrendo vetores com laços de repetição
+- Exemplos práticos feitos em aula
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🚀 Como usar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/brabdalla/listaDeCompras.git
